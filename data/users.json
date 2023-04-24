@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nom": "",
+        "prenom": "",
+        "daten": "",
+        "sexe": "",
+        "titre": ".",
+        "poste": "",
+        "service": "T",
+        "direction": "",
+        "tel": "",
+        "fax": "",
+        "mail": "",
+        "adresse": ""
+      },
+      {
+        "id": 2,
+        "nom": "",
+        "prenom": "",
+        "daten": "",
+        "sexe": "",
+        "titre": ".",
+        "poste": "",
+        "service": "",
+        "direction": "",
+        "tel": "",
+        "fax": "",
+        "mail": "",
+        "adresse": ""
+      }
+    ]
+  }
+  

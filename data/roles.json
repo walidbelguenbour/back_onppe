@@ -1,0 +1,65 @@
+{
+    "roles": [
+      {
+        "id": 1,
+        "name": "Admin",
+        "rights": [
+          {
+            "id": 1,
+            "name": "Create user"
+          },
+          {
+            "id": 2,
+            "name": "Edit user"
+          },
+          {
+            "id": 3,
+            "name": "Delete user"
+          },
+          {
+            "id": 4,
+            "name": "Create role"
+          },
+          {
+            "id": 5,
+            "name": "Edit role"
+          },
+          {
+            "id": 6,
+            "name": "Delete role"
+          },
+          {
+            "id": 7,
+            "name": "Create right"
+          },
+          {
+            "id": 8,
+            "name": "Edit right"
+          },
+          {
+            "id": 9,
+            "name": "Delete right"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "User",
+        "rights": [
+          {
+            "id": 1,
+            "name": "Create user"
+          },
+          {
+            "id": 2,
+            "name": "Edit user"
+          },
+          {
+            "id": 3,
+            "name": "Delete user"
+          }
+        ]
+      }
+    ]
+  }
+  
