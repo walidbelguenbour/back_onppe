@@ -14,3 +14,10 @@ app.use('/roles', roleRoutes);
 app.use('/rights', rightRoutes);
 
 module.exports = app;
+
+// start the server and listen on port 8082
+const server = app.listen(8082, function() {
+    const host = server.address().address;
+    const port = server.address().port;
+    console.log(`App listening on http://${host}:${port}`);
+  });
